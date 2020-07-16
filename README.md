@@ -9,3 +9,4 @@ resolusi
 7. bangun
 8. tidur lagi
 9. sikat gigi
+10. Mandi lagi
