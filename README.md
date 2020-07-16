@@ -8,3 +8,4 @@ resolusi
 6. tidur lelap
 7. bangun
 8. tidur lagi
+9. sikat gigi
