@@ -10,3 +10,4 @@ resolusi
 8. tidur lagi
 9. sikat gigi
 10. Mandi lagi
+11. Tidur lagi
