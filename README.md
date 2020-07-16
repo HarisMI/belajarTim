@@ -4,3 +4,4 @@ resolusi
 2. atur waktu
 3. mandi pagi pagi
 4. Tidur
+5. mimpi
