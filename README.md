@@ -1,1 +1,2 @@
-Belajar Git
+resolusi
+1. tambah belajar
