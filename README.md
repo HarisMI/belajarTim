@@ -5,4 +5,4 @@ resolusi
 3. mandi pagi pagi
 4. Tidur
 5. mimpi
-7. tidur sangat lelap
+6. tidur lelap
