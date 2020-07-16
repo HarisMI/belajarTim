@@ -6,3 +6,4 @@ resolusi
 4. Tidur
 5. mimpi
 6. tidur lelap
+7. bangun
